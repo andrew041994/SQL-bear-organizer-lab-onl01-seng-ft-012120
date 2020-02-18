@@ -1,1 +1,1 @@
-"CREATE TABLE bears(name)"
+"CREATE TABLE bears(name);"
