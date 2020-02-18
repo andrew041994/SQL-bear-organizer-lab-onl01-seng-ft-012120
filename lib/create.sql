@@ -1,4 +1,6 @@
 
   def creating_bears_table
-    "CREATE TABLE bears (name TEXT);"
+    "CREATE TABLE bears (
+      name TEXT
+    );"
   end
